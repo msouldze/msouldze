@@ -4,13 +4,15 @@
 - 🔭 I’m currently working on [Second Frontend Development Project](https://github.com/msouldze/frontend-project-lvl2)
 - 🌱 I’m currently learning Frontend Development on [Hexlet](https://hexlet.io/)
 - ⚡ I’m looking for an internship to get more experience with Web Development
-- 📫 How to reach me: 
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aizhan-dzhumanalieva-a31545191/)
+### :mailbox:Contact me:
+
+[<img align="left" alt="msouldze | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aizhan-dzhumanalieva-a31545191/)
+[<img align="left" alt="msouldze | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:msouldze1@gmail.com)
 
 <br />
 
-### Languages and Tools:
+### :wrench:Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
