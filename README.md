@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ### I am a beginner in Frontend Development who is ready to use knowledge in practice
-- 🔭 I’m currently working on [Second Frontend Development Project](https://github.com/msouldze/frontend-project-lvl2)
-- 🌱 I’m currently learning Frontend Development on [Hexlet](https://hexlet.io/)
-- ⚡ I’m looking for an internship to get more experience with Web Development
+- 🔭 I’m currently working on [React Blog Project](https://github.com/msouldze/react-blog-4.14)
+- 🌱 I’m currently learning React
+- ⚡ I’m looking for an internship to get more experience with Frontend Development
 
 ### :mailbox:Contact me:
 
